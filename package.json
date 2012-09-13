@@ -1,0 +1,17 @@
+{
+  "name": "bucefalo-expose",
+  "title": "Bucefalo Expose",
+  "description": "Bucefalo Expose, creates exposable or serializable representation of non serializable objects and transfer those thru a web socket",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "Alejandro Hernández"
+  },
+  "dependencies": {
+      "connect": ">= 1.8.5",
+      "express": ">= 2.5.4",
+      "socket.io": ">= 0.9.10",
+      "node-static": ">= 0.5.9"
+  },
+  "keywords": []
+}
